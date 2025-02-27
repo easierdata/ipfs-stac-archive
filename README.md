@@ -1,3 +1,17 @@
+# :warning: Repository Archived :warning:
+> This repository has been archived and is no longer maintained.
+
+Development on ipfs-stac has been moved to [DecentralizedGeo](https://github.com/DecentralizedGeo/ipfs-stac), where active development, issue tracking continue, and community interaction will take place. This repository serves as a snapshot of the project at the time it was transferred. If you have questions, want to report an issue, or continue discussions related to ipfs-stac, please visit the new repository [home](https://github.com/DecentralizedGeo/ipfs-stac).
+
+### What Does Archiving Mean?
+Archiving makes this repository read-only. This means:
+
+- No new issues, pull requests, or discussions can be created here.
+
+- Existing issues and pull requests are frozen and cannot be modified.
+ 
+---
+ 
 # IPFS-STAC
 
 `ipfs-stac` is a Python library that provides functionality for querying and interacting with STAC catalogs enriched with IPFS. The library supports seamless operations between leveraging STAC APIs enriched with IPFS metadata and interfacing with IPFS itself given a node.
